@@ -1,7 +1,6 @@
 OpenShift Origin - Platform as a Service
 ========================================
 
-
 This repository contains the core components of the OpenShift service
 released under the [OpenShift Origin source
 project](https://openshift.redhat.com/community/open-source).  The
